@@ -46,3 +46,17 @@ git add .
 git commit -m "first commit"
 ```
 
+Oneliner command
+```bash
+git add . && git commit -m "update Readme.md file"
+```
+
+```bash
+git remote add origin <GITHUB REPO NAME>
+git branch -M main
+git push origin main
+```
+
+
+
+
