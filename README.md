@@ -33,3 +33,16 @@ Initailze the dvc
 ```bash
 dvc init
 ```
+
+```bash
+dvc add data_given/winquality.csv
+```
+
+```bash
+git add . 
+```
+
+```bash
+git commit -m "first commit"
+```
+
